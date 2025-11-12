@@ -1,6 +1,6 @@
 # 🧱 **OSDAG Bridge Module – Web Application**
 
-> 🧩 *A full-stack web-based UI developed for the OSDAG Bridge Group Design Module Screening Task (Web Version)*  
+> 🧩 *A web-based UI developed for the OSDAG Bridge Group Design Module Screening Task (Web Version)*  
 > Built using **React + Django REST Framework** for bridge geometry input, validation, and visualization.
 
 ---
