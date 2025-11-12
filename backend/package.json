@@ -1,0 +1,19 @@
+{
+  "name": "osdag-bridge-backend",
+  "version": "1.0.0",
+  "description": "Django REST Framework backend for OSDAG Bridge Module Group Design Tool",
+  "main": "manage.py",
+  "scripts": {
+    "dev": "python manage.py runserver",
+    "migrate": "python manage.py migrate",
+    "migrations": "python manage.py makemigrations",
+    "seed": "python manage.py seed_locations",
+    "test": "python manage.py test"
+  },
+  "dependencies": {
+    "Django": "4.2.0",
+    "djangorestframework": "3.14.0",
+    "django-cors-headers": "4.2.0",
+    "python-decouple": "3.8"
+  }
+}
