@@ -20,7 +20,7 @@
 > *(Preview recorded from the working interface)*
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2e8949da-b32d-4154-ba95-ac588c7ee893" alt="OSDAG Bridge Module Demo" width="850px"/>
+  <img src="https://github.com/user-attachments/assets/fda08c13-e9cc-41af-a8a7-3add469ddc82" alt="OSDAG Bridge Module Demo" width="850px"/>
 </p>
 
 ---
