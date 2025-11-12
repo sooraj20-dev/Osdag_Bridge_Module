@@ -14,14 +14,13 @@
 </p>
 
 ---
-
 ## 🎥 **Demo Preview**
 
-> 🎬 Add your demo video or GIF below  
-> *(Replace `demo.gif` after recording your screen)*
+> 🎬 Check out the live demo of the OSDAG Bridge Module in action  
+> *(Preview recorded from the working interface)*
 
 <p align="center">
-  <img src="demo.gif" alt="OSDAG Bridge Module Demo" width="850px"/>
+  <img src="https://github.com/user-attachments/assets/2e8949da-b32d-4154-ba95-ac588c7ee893" alt="OSDAG Bridge Module Demo" width="850px"/>
 </p>
 
 ---
